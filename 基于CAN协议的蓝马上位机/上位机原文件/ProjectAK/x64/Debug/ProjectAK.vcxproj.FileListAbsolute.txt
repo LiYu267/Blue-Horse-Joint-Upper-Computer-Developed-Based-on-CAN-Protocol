@@ -1,0 +1,6 @@
+D:\ProjectAK\ProjectAK\x64\Debug\ProjectAK.vcxproj.AssemblyReference.cache
+D:\ProjectAK\ProjectAK\x64\Debug\ProjectAK.MyForm.resources
+D:\ProjectAK\ProjectAK\x64\Debug\ProjectAK.vcxproj.GenerateResource.cache
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\x64\Debug\ProjectAK.vcxproj.AssemblyReference.cache
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\x64\Debug\ProjectAK.MyForm.resources
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\x64\Debug\ProjectAK.vcxproj.GenerateResource.cache
