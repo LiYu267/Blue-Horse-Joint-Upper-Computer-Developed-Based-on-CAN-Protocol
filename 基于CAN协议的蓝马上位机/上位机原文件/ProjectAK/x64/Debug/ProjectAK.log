@@ -1,0 +1,26 @@
+﻿  MyForm.cpp
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(148,15): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(150,15): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(152,15): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(154,15): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(156,15): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(158,15): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(287,26): warning C4838: 从“int”转换到“unsigned char”需要收缩转换
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(288,33): warning C4838: 从“int”转换到“unsigned char”需要收缩转换
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(289,34): warning C4838: 从“int”转换到“unsigned char”需要收缩转换
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(290,34): warning C4838: 从“int”转换到“unsigned char”需要收缩转换
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(300,21): warning C4101: “ex”: 未引用的局部变量
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(313,25): warning C4838: 从“int”转换到“unsigned char”需要收缩转换
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(314,32): warning C4838: 从“int”转换到“unsigned char”需要收缩转换
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(315,33): warning C4838: 从“int”转换到“unsigned char”需要收缩转换
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(316,33): warning C4838: 从“int”转换到“unsigned char”需要收缩转换
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(326,21): warning C4101: “ex”: 未引用的局部变量
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(339,28): warning C4838: 从“int”转换到“unsigned char”需要收缩转换
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(340,35): warning C4838: 从“int”转换到“unsigned char”需要收缩转换
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(341,36): warning C4838: 从“int”转换到“unsigned char”需要收缩转换
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(342,36): warning C4838: 从“int”转换到“unsigned char”需要收缩转换
+D:\第二次实验（分拣机器人小组）\上位机原文件\ProjectAK\MyForm.cpp(352,21): warning C4101: “ex”: 未引用的局部变量
+  main.cpp
+  正在生成代码...
+  main.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+  ProjectAK.vcxproj -> D:\第二次实验（分拣机器人小组）\上位机原文件\x64\Debug\ProjectAK.exe
